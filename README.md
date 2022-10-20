@@ -1,5 +1,8 @@
 # myapp
 
+##Intregrantes
+Carol Hidalgo Flores, Carlos Fabricio Humacayo Ala
+
 ## Project setup
 ```
 npm install
