@@ -1,7 +1,10 @@
 # myapp
 
-##Intregrantes
+## Intregrantes
+
+```
 Carol Hidalgo Flores, Carlos Fabricio Humacayo Ala
+```
 
 ## Project setup
 ```
